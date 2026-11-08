@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hi, I'm Rafael 👋
+# I'm Rafael 👋
 
 Web development student (DAW, Spain) and co-founder of Desert Collectors https://desertcollectors.es, a live Pokémon & One Piece TCG store I built from scratch.
 
